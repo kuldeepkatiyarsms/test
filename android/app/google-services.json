@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87955217014",
+    "project_id": "holy-basil-plus",
+    "storage_bucket": "holy-basil-plus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87955217014:android:4bbe60033b32217c5f1d57",
+        "android_client_info": {
+          "package_name": "com.hbplus.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87955217014-o35mpojc6v5u2p7l28bhm2f4ne7bcpbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOlLQfIFs-TZg4HtshNMdlCoVS_Jig7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87955217014-o35mpojc6v5u2p7l28bhm2f4ne7bcpbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
